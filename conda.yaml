@@ -1,0 +1,10 @@
+name: mlflow_basics_2
+channels:
+  - defaults
+dependencies:
+  - python=3.8.18
+  - pip
+  - pip:
+    - mlflow==2.11.1
+
+
